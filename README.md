@@ -1,8 +1,8 @@
-# Vonage AI Assist MCP Server
+# Vonage AI Code Assist MCP Server
 
 ## Overview
 
-Vonage Assist is a Model Context Protocol (MCP) server designed to help developers integrate Vonage API capabilities into their applications. The server leverages FastMCP to provide AI-assisted access to Vonage documentation, enabling developers to quickly find relevant information about Vonage's communication APIs.
+Vonage AI Code Assist is a Model Context Protocol (MCP) server designed to help developers integrate Vonage API capabilities into their applications. The server leverages FastMCP to provide AI-assisted access to Vonage documentation, enabling developers to quickly find relevant information about Vonage's communication APIs.
 
 ## How It Works
 
