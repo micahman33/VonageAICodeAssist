@@ -1,4 +1,4 @@
-# Vonage Assist MCP Server
+# Vonage AI Assist MCP Server
 
 ## Overview
 
