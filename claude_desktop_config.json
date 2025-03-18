@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "mcp-server": {
+            "command": "/Users/micahsmith/.local/bin/uv",
+            "args": [
+                "--directory",
+                "/Users/micahsmith/Library/CloudStorage/OneDrive-AutomationAnywhere/Documents/Training/MCPwithPython/documentation",
+                "run",
+                "main.py"
+            ]
+        }
+    }
+}
