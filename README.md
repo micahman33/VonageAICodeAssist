@@ -1,8 +1,8 @@
-# Vonage Assist MCP Server
+# Vonage AI Assist MCP Server
 
 ## Overview
 
-Vonage Assist is a Machine Computation Provider (MCP) server designed to help developers integrate Vonage API capabilities into their applications. The server leverages FastMCP to provide AI-assisted access to Vonage documentation, enabling developers to quickly find relevant information about Vonage's communication APIs.
+Vonage Assist is a Model Context Protocol (MCP) server designed to help developers integrate Vonage API capabilities into their applications. The server leverages FastMCP to provide AI-assisted access to Vonage documentation, enabling developers to quickly find relevant information about Vonage's communication APIs.
 
 ## How It Works
 
@@ -67,14 +67,16 @@ The core functionality is implemented through several key functions:
 
 ## Future Considerations
 
-Here are the top 5 most impactful potential enhancements for the Vonage Assist MCP server:
+Top potential enhancements for the Vonage Assist MCP server:
 
 1. **Code Generation Tool**: Add capabilities to generate sample code snippets for common Vonage API integrations (SMS, Voice, Verify, Video) in multiple programming languages, helping developers quickly implement Vonage features with proper syntax and best practices.
 
 2. **API Parameter Helper**: Develop a tool that helps developers construct valid API requests by suggesting parameters, validating inputs, and explaining required vs. optional fields for different Vonage API endpoints.
 
-3. **Troubleshooting Assistant**: Implement functionality to diagnose common integration issues by analyzing error codes and providing actionable solutions, significantly reducing debugging time.
+3. **Troubleshooting Assistant**: Implement functionality to diagnose common integration issues by analyzing error codes and providing actionable solutions based on KB articles and documentation - significantly reducing debugging time.
 
 4. **Webhook Configuration Helper**: Create a tool to assist with setting up and testing webhook endpoints for Vonage services, guiding developers through the process of handling callbacks and events.
 
 5. **Best Practices Advisor**: Add a capability to provide context-specific best practices for performance, security, and resilience when implementing Vonage APIs, helping developers build more robust applications.
+
+6. **Rate Limit & Pricing Estimator**: Help developers estimate costs and understand rate limits for their specific use cases.
