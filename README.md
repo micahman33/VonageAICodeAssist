@@ -1,4 +1,5 @@
 # Vonage AI Code Assist MCP Server
+[![smithery badge](https://smithery.ai/badge/@micahman33/VonageAICodeAssist)](https://smithery.ai/server/@micahman33/VonageAICodeAssist)
 
 ## Overview
 
@@ -23,6 +24,15 @@ The Vonage Assist MCP server operates as follows:
 
 ## Setup & Requirements
 
+### Installing via Smithery
+
+To install Vonage AI Code Assist for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@micahman33/VonageAICodeAssist):
+
+```bash
+npx -y @smithery/cli install @micahman33/VonageAICodeAssist --client claude
+```
+
+### Manual Installation
 To run the Vonage Assist MCP server:
 
 1. Ensure Python 3.13+ is installed.
